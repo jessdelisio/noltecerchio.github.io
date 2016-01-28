@@ -71,8 +71,8 @@ hr {
   height: 40px;
   background-color: #6AC1BC;
   border-radius: 6px;
-  -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
-  animation: sk-rotatePlane 1.2s infinite ease-in-out;
+  -webkit-animation: sk-rotatePlane 1s infinite ease-in-out;
+  animation: sk-rotatePlane 1s infinite ease-in-out;
 }
 @-webkit-keyframes sk-rotatePlane {
   0% {
