@@ -118,10 +118,10 @@ hr {
   clear: both;
 }
 #hero img {
-  width: 165px;
+  width: 175px;
   height: auto;
   border: 6px solid #DAEFEE;
-  border-radius: 10%;
+  border-radius: 100%;
 }
 #home .home-des {
   padding-top: 48px;
